@@ -3,3 +3,9 @@
 
 Sistema Web Para buscar CEP e verificar se aquela região é atendida 
 
+Tecnologia Ultilizada:
+
+HTML5
+CSS3
+JavaScript
+JQuery
